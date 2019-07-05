@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Empty Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">name</string>
+    <string name="gpa">gpa</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="save" >SAVE</string>
+</resources>
